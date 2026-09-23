@@ -1,4 +1,4 @@
-nav{
+.navbar{
     background-color: #333;
     font-size:1.2rem;
     padding: 1em;
@@ -16,7 +16,7 @@ nav{
 
 }
 
-.navbar li{
+.navbar>ul>li{
     display: inline;
     margin: 0 1em;
 }
