@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
     background-color: #333;
     font-size:1.2rem;
     padding: 1em;
@@ -9,19 +9,19 @@
     z-index: 1000;
 }
 
-.navbar ul li{
+.navbar ul {
     list-style: none;
     margin: 0;
     padding: 0;
 
 }
 
-.navbar ul li{
+.navbar li{
     display: inline;
     margin: 0 1em;
 }
 
-.navbar ul li a{
+.navbar li a{
     color: #fff;
 }
 
@@ -34,7 +34,7 @@
     text-align: center;
 }
 
-#home>h1{
+#home h1{
     font-size: 2.5em;
 }
 
@@ -42,7 +42,7 @@
     margin-bottom: 0.5em;
 }
 
-#home>p{
+#home p{
     font-size: 1.2em;
     color: #666;
 }
